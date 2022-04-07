@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringProjetointegradorApplication<spring-projetointegrador>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.projeto.springprojetointegrador.SpringProjetointegradorApplication",
+            "projectName": "spring-projetointegrador",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
